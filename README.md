@@ -5,6 +5,9 @@ Pytorch GAN with Anime Faces
 
 https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces/blob/main/gans_training.mp4
 
+<video src='https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces/blob/main/gans_training.mp4' width=180/>
+
+
 # Credits:
 
 ## Johann Pineda:
